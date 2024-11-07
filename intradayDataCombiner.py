@@ -19,4 +19,5 @@ def combiner(data):
         'volume': 'sum'
     })
 
-    print(daily_ohlc)
+
+    return daily_ohlc
